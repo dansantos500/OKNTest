@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OKNTest</string>
+    <string name="need_camera_permissions">This app needs the WRITE_EXTERNAL_STORAGE, RECORD_AUDIOand CAMERA permissions to capture video from the camera.</string>
+</resources>
